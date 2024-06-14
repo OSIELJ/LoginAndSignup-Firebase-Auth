@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503852889572",
+    "project_id": "loginsignup-firebase-auth",
+    "storage_bucket": "loginsignup-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503852889572:android:71e825b358d4f6b8bd03f1",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7pPXLh8t0o0WugD_7cWuTshcd83KBQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
